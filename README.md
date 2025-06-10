@@ -35,11 +35,10 @@ Additionally, we experiment with **style-mixing** between RGB and thermal latent
 |--------------------------|-------------|
 | CycleGAN                 | 350.37      |
 | StyleGAN                 | 300.00      |
-| Diffusion Model          | 280.00      |
 | StyleGAN2-ADA            | **101.37**  |
 | StyleGAN2-ADA (RGB only) | **8.12**    |
 
-> Among all methods, StyleGAN2-ADA trained on RGB cat images produced the most thermographically plausible results.
+> Among all methods, StyleGAN2-ADA models presented the best.
 
 ---
 
